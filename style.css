@@ -1,0 +1,28 @@
+body,
+.jumbotron {
+  padding: 30px;
+}
+
+.text-giant {
+  font-size: 40px;
+}
+
+.timer {
+  font-size: 30px;
+}
+
+.btn-crazy {
+  position: absolute;
+  top: 30px;
+  left: 35%;
+  width: 30%;
+  height: 10%;
+  transition: 0.5s ease all;
+  text-align: center;
+}
+
+.skor-number,
+.skor {
+  font-size: 24px;
+  color: blue;
+}
